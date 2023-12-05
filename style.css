@@ -12,7 +12,7 @@ body {
 }
 
 body {
-    font-family: "Calibri", serif;
+    font-family: 'Roboto', sans-serif;
     color: rgba(255, 255, 255, 0.75);
 }
 
@@ -121,3 +121,4 @@ footer p a {
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
 }
+
